@@ -28,6 +28,7 @@
 ### Personalized LLM & Characterized LLM
 - [PERSONAL LLM AGENTS: INSIGHTS AND SURVEY ABOUT THE CAPABILITY, EFFICIENCY AND SECURITY](https://arxiv.org/abs/2401.05459)
 - [Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)
+- [From Persona to Personalization: A Survey on Role-Playing Language Agents](https://arxiv.org/abs/2404.18231)
 
 
 
